@@ -1,2 +1,3 @@
-.secondaryRepo/*
+secondaryRepo/
 token.txt
+.gitignore
